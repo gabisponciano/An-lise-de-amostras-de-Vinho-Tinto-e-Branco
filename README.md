@@ -1,2 +1,3 @@
 # Analise de amostras de Vinho Tinto e Branco de Portugal
+Projeto da cadeira de Inteligência Computacional Aplicada, onde foi realizado uma análise de dados, utilizando um dataset de vinhos, para demonstrar os principais fundamentos e da visualização dos elementos fornecidos e suas características. Portanto, foi utilizado analises monovariada incondicional, monovariada condicional de classe, bivariada incondicional e multivariada incondicional para obter noções sobre como o tipo de vinho, vinho branco e vinho tinto, podem ter diferençass em relaçãoo aos seus preditores e como isso afeta a propriedade do vinho.
 [HW1.pdf](https://github.com/user-attachments/files/16840878/HW1.pdf)
